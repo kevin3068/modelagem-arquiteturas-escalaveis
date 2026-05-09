@@ -32,11 +32,11 @@ Desenvolver e avaliar protótipos arquiteturais (monolito modular vs microservi�
 
 ## 🛠 Tecnologias Previstas
 
-- PHP / Laravel (implementação e análise)
-- Docker / docker-compose (ambiente)
-- Locust ou JMeter (testes de carga)
-- Plotly / Matplotlib (visualização)
-- Computação em nuvem
+- PHP / Laravel (implementação do back-end e API REST)
+- Docker / Docker Compose (conteinerização e padronização do ambiente)
+- K6 ou Apache JMeter (testes de carga e estresse)
+- Computação em nuvem (AWS: ECS Fargate, ALB, RDS e S3)
+- Planilhas Eletrônicas / AWS CloudWatch (coleta de métricas e geração de gráficos para análise)
 
 ## 👨‍🎓 Autor
 
