@@ -32,7 +32,7 @@ Desenvolver e avaliar protótipos arquiteturais (monolito modular vs microservi�
 
 ## 🛠 Tecnologias Previstas
 
-- Python (implementação e análise)
+- PHP / Laravel (implementação e análise)
 - Docker / docker-compose (ambiente)
 - Locust ou JMeter (testes de carga)
 - Plotly / Matplotlib (visualização)
