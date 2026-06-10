@@ -1,4 +1,4 @@
-# Consolidação da Arquitetura da Solução
+# Arquitetura da Solução: Avaliação de API REST Escalável
 
 Esta documentação detalha a arquitetura proposta para a avaliação de desempenho de sistemas web escaláveis em ambiente de nuvem, substituindo o modelo monolítico tradicional por uma abordagem *cloud-native*.
 
