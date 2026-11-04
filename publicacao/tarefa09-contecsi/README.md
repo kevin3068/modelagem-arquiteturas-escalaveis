@@ -7,7 +7,7 @@
 - **Breve descrição da contribuição científica:** O artigo comprova empiricamente que, em ambientes cloud-native serverless, a escalabilidade irrestrita da camada de computação (Fargate) garante 100% de disponibilidade, mas desloca o gargalo de processamento para a camada de persistência de dados relacional (RDS), impedindo o cumprimento estrito do SLA de latência.
 
 ## Links de Referência
-- **Link do template utilizado:** [Diretrizes oficiais para autores - 21º CONTECSI](https://docs.google.com/document/d/1C4jklGs0GD4qqeRCcdU-DnKSme6qe6ZT6-KXR0ltxfE/edit)
+- **Link do template utilizado:** [Template](https://docs.google.com/document/d/1C4jklGs0GD4qqeRCcdU-DnKSme6qe6ZT6-KXR0ltxfE/edit)
 - **Exemplo de trabalho consultado 1 (20º CONTECSI - Trilha 115):** [Resiliência e Continuidade de Negócios por meio de Armazenamento de Dados em Nuvem (Silveira & Rigo)](https://contecsi.tecsi.org/index.php/contecsi/20CONTECSI/paper/view/7211)
 - **Exemplo de trabalho consultado 2 (20º CONTECSI - Trilha 115):** [GOVERNANÇA DE TECNOLOGIA DA INFORMAÇÃO E CAPACIDADE ORGANIZACIONAL (Yoshikuni, Santos & Dwivedi)](https://contecsi.tecsi.org/index.php/contecsi/20CONTECSI/paper/view/7150)
 
